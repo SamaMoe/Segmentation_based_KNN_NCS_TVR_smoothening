@@ -1,0 +1,15 @@
+matplotlib
+math
+statistics
+pandas
+Excelwriter
+Excelfile
+scikit-learn
+neighbors
+scipy==1.4.1
+numpy==1.18.0
+statsmodels
+itertools
+joblib
+patsy
+warnings
